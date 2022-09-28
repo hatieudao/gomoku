@@ -13,3 +13,12 @@
   text-align: center;
   cursor: pointer;
 }
+.cant-click{
+  cursor: not-allowed;
+}
+.current{
+  background-color: #9f9f9f;
+}
+.win{
+  background-color: rgb(15, 187, 15);
+}

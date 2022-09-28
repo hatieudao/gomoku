@@ -1,6 +1,5 @@
 import './App.css';
 import Board from './components/board';
-import TurnBar from './components/turnbar';
 
 function App() {
   return (
