@@ -1,0 +1,10 @@
+.turnbar{
+  width: 200px;
+  height: 100px;
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
