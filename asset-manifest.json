@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gomoku/static/css/main.e579796b.css",
-    "main.js": "/gomoku/static/js/main.aafc1d8e.js",
+    "main.js": "/gomoku/static/js/main.79815c3b.js",
     "static/js/787.ad6089d3.chunk.js": "/gomoku/static/js/787.ad6089d3.chunk.js",
     "index.html": "/gomoku/index.html",
     "main.e579796b.css.map": "/gomoku/static/css/main.e579796b.css.map",
-    "main.aafc1d8e.js.map": "/gomoku/static/js/main.aafc1d8e.js.map",
+    "main.79815c3b.js.map": "/gomoku/static/js/main.79815c3b.js.map",
     "787.ad6089d3.chunk.js.map": "/gomoku/static/js/787.ad6089d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e579796b.css",
-    "static/js/main.aafc1d8e.js"
+    "static/js/main.79815c3b.js"
   ]
 }
